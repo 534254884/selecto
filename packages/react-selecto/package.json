@@ -1,5 +1,5 @@
 {
-  "name": "react-selecto",
+  "name": "hy-react-selecto",
   "version": "1.6.4",
   "description": "A React Selecto Component that allows you to select elements in the drag area using the mouse or touch.",
   "main": "./dist/selecto.cjs.js",
@@ -23,14 +23,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/daybrush/selecto/blob/master/packages/react-selecto"
+    "url": "https://github.com/534254884/selecto/blob/master/packages/react-selecto"
   },
   "author": "Daybrush",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/daybrush/selecto/issues"
+    "url": "https://github.com/534254884/selecto/issues"
   },
-  "homepage": "https://daybrush.com/selecto",
+  "homepage": "https://github.com",
   "devDependencies": {
     "@daybrush/builder": "^0.1.2",
     "@types/react-dom": "^16.9.4",
