@@ -1,5 +1,5 @@
 {
-    "name": "selecto",
+    "name": "hy-selecto",
     "version": "1.6.4",
     "description": "Selecto.js is a component that allows you to select elements in the drag area using the mouse or touch.",
     "main": "./dist/selecto.cjs.js",
@@ -32,14 +32,14 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/daybrush/selecto.git"
+        "url": "git+https://github.com/534254884/selecto.git"
     },
     "author": "Daybrush",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/daybrush/selecto/issues"
+        "url": "https://github.com/534254884/selecto/issues"
     },
-    "homepage": "https://github.com/daybrush/selecto#readme",
+    "homepage": "https://github.com/534254884/selecto#readme",
     "dependencies": {
         "@daybrush/utils": "^1.0.0",
         "@egjs/children-differ": "^1.0.0",
